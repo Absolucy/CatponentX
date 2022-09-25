@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "PJRAN3X1U")(type "KiCad")(uri "${KIPRJMOD}/CatponentX.symbols/pjran3xiu03x.kicad_sym")(options "")(descr ""))
+  (lib (name "PLT133")(type "KiCad")(uri "${KIPRJMOD}/CatponentX.symbols/plt133_t10w.kicad_sym")(options "")(descr ""))
+  (lib (name "THS7316")(type "KiCad")(uri "${KIPRJMOD}/CatponentX.symbols/ths7316.kicad_sym")(options "")(descr ""))
+  (lib (name "PJRAN2X1U01AUX")(type "KiCad")(uri "${KIPRJMOD}/CatponentX.symbols/PJRAN2X1U01AUX.kicad_sym")(options "")(descr ""))
+  (lib (name "FCR684205T")(type "KiCad")(uri "${KIPRJMOD}/CatponentX.symbols/FCR684205T.kicad_sym")(options "")(descr ""))
+)
